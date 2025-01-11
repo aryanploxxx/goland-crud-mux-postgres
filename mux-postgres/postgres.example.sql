@@ -15,3 +15,4 @@ VALUES ("a-new-blog", "A New Blog", "I hope you enjoyed the last blog! Well brac
 
 INSERT INTO pages (page_guid, page_title, page_content, page_date) 
 VALUES ("lorem-ipsum", "Lorem Ipsum", "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sem tortor, lobortis in posuere sit amet, ornare non eros. Pellentesque vel lorem sed nisl dapibus fringilla. In pretium...", "2015-05-06 04:09:45");
+
